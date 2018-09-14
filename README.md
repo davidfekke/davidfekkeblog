@@ -4,7 +4,7 @@ Big typography, focus on the content & minimal style.
 
 [Demo Website](https://minimal-blog.netlify.com/)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LeKoArts/gatsby-starter-minimal-blog)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/davidfekke/fekkeblog)
 
 ## Features
 
